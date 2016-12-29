@@ -1,7 +1,4 @@
-/**
- * Created by Tom on 2016-12-28.
- */
-
+package com.napspan.trenazer;
 
 
 public class Workout {
